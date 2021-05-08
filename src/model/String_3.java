@@ -30,4 +30,5 @@ public class String_3 extends StringInstrument{
 							   "Orientation: " + orientation + "\n\n";
 		return msg;
 	}
+	
 }
